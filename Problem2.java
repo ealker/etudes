@@ -6,6 +6,7 @@
  * By considering the terms in the Fibonacci sequence whose values do not exceed four million, find the sum of the even-valued terms.
  * 
  * Answer: 4613732
+ *
  */
 
 import java.util.ArrayList;
@@ -15,27 +16,27 @@ public class Problem2 {
 
 
     public static void main(String[] args) {
-        System.out.println(fibonacci(4000000));
+        System.out.println(fibonacci(4000000)); //Display the sequence. 
     }
 
     public static ArrayList<Integer> fibonacci(int n) {
         long answer = 0;
         ArrayList<Integer> results = new ArrayList<>();
-        results.add(1);
+        results.add(1); //Add first two terms to the array list.
         results.add(1);
 
 
         while (results.get(results.size() -1) < n){
-            int value = results.get(results.size()-1) + results.get(results.size()-2);
+            int value = results.get(results.size()-1) + results.get(results.size()-2); //The next number in the series is the sum of the previous two terms.
             results.add(value);
 
 
-            if (value % 2 == 0){
+            if (value % 2 == 0){ //Check if the number is even, add it to the answer.
                 answer += value;
             }
         }
 
-        System.out.println(answer);
+        System.out.println(answer); //Display the final answer.
         return (results);
     }
 
