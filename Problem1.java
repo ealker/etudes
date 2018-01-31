@@ -4,7 +4,7 @@
 
 //Answer: 233168
 
-public class problem_1 {
+public class Problem1 {
 
     public static void main(String[] args) {
 
