@@ -1,5 +1,5 @@
 # programming-practice 
-Every time you program you are "practicing programming". This repo is dedicated to my efforts of "deliberate practice" to the art. Here you'll find a collection of interview questions and answers à la manière de leetcode, HackerRank, etc., as well as small generic scripts that help me improve my craft in different ways. 
+Every time you program you are "practicing programming". This repo is dedicated to my efforts of "deliberate practice" to the art. Here you'll find a collection of interview questions and answers à la manière de leetcode, HackerRank, etc., as well as small generic scripts that have also helped me to improve at my craft. 
 
 My brilliant former piano teacher once said to me _"Don't take notice of the quote 'practice makes perfect', it's incorrect. Perfect practices makes perfect."_. She was trying to impart the power of [deliberate practice](https://jamesclear.com/deliberate-practice-theory) onto my young mind. I thought it was wonderfully original. It turns out she was probably copying [Vince Lombardi](https://www.brainyquote.com/quotes/vince_lombardi_138158). 
 
