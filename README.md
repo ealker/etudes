@@ -15,4 +15,4 @@ Backup of [leetcode](http://leetcode.com) solutions. Written in Java, Kotlin and
 Answers to generic programming questions I've found on the web. Written in whatever I feel like at the time
 
 ## Notes
-I use various notes to help me practice for interviews, since this is when most of my problem solving abilites get used outside of personal projects. I have some interview tips/links to other resources on my [website](wwww.elliotalker.com). I also use my [university notes](https://github.com/elliotalker/university-notes) and I try to update them from time to time, even though it's been a few years since I graduated.  
+I use various notes to help me practice for interviews, since this is when most of my problem solving abilites get used outside of personal projects. I have some interview tips/links to other resources on my [website](http://wwww.elliotalker.com). I also use my [university notes](https://github.com/elliotalker/university-notes) and I try to update them from time to time, even though it's been a few years since I graduated.  
