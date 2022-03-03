@@ -5,13 +5,13 @@ My brilliant former piano teacher once said to me _"Don't take notice of the quo
 
 ## Code 
 
-### project-euler
+### [project-euler](https://github.com/elliotalker/programming-practice/tree/master/project-euler)
 Solutions to [Project Euler](https://projecteuler.net/) problems. Written in Java. 
 
-### leet-code
+### [leetcode](https://github.com/elliotalker/programming-practice/tree/master/leetcode)
 Backup of [leetcode](http://leetcode.com) solutions. Written in Java, Kotlin and Go.
 
-### generic-questions
+### [generic-questions](https://github.com/elliotalker/programming-practice/tree/master/generic-questions)
 Answers to generic programming questions I've found on the web. Written in whatever I feel like at the time
 
 ## Notes
