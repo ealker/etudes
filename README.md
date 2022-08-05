@@ -1,5 +1,5 @@
 # programming-practice 
-This repo is a collection of my "deliberate practice" of programming. Here you'll find a collection of interview questions and answers à la manière de leetcode, HackerRank, etc.
+This repo is used for deliberate programming practice. Here you'll find interview questions and answers à la manière de leetcode, HackerRank, etc.
 
 My brilliant former piano teacher once said to me _"Don't take notice of the quote 'practice makes perfect', it's incorrect. It should be 'Perfect practices makes perfect'."_. She was trying to impart the power of [deliberate practice](https://jamesclear.com/deliberate-practice-theory). I thought it was wonderfully original. It turns out she probably stole that quote from [Vince Lombardi](https://www.brainyquote.com/quotes/vince_lombardi_138158). 
 
