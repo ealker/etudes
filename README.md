@@ -3,7 +3,7 @@ This repo is used for deliberate programming practice. Here you'll find intervie
 
 My brilliant former piano teacher once said to me _"Don't take notice of the quote 'practice makes perfect', it's incorrect. It should be 'Perfect practices makes perfect'."_. She was trying to impart the power of [deliberate practice](https://jamesclear.com/deliberate-practice-theory). I thought it was wonderfully original. It turns out she probably stole that quote from [Vince Lombardi](https://www.brainyquote.com/quotes/vince_lombardi_138158). 
 
-This idea is also covered in depthy by [Cees de Groot](https://evrl.com/programming/2018/07/08/programming-etudes.html), [Peter Norvig](https://github.com/norvig/pytudes), and [Charles Wetherell](https://www.goodreads.com/book/show/3924336-etudes-for-programmers).
+This idea is also covered in depth by [Cees de Groot](https://evrl.com/programming/2018/07/08/programming-etudes.html), [Peter Norvig](https://github.com/norvig/pytudes), and [Charles Wetherell](https://www.goodreads.com/book/show/3924336-etudes-for-programmers).
 
 ## Code 
 
